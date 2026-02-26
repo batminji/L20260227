@@ -1,4 +1,6 @@
-﻿#include <stdio.h>
+﻿// 이중 포인터
+
+#include <stdio.h>
 
 int main()
 {
